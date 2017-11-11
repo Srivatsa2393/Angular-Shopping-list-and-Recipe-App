@@ -12,7 +12,7 @@ export class RecipeListComponent implements OnInit {
   recipes: Recipe[] = [
     new Recipe('Gobi Manchurian', 'This is a simple test', 
               'http://vegetarianindianrecipes.com/wp-content/uploads/2016/09/gobi-manchurian-recipe-8.jpg'),
-    new Recipe('Another test recipe', 'This is a simple test', 
+    new Recipe('Another test recipe by Srivatsa', 'This is a simple test', 
               'http://vegetarianindianrecipes.com/wp-content/uploads/2016/09/gobi-manchurian-recipe-8.jpg')
   ];
 
